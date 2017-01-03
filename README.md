@@ -12,4 +12,4 @@ Step 2: Retriving the correct Order Properties using the API Reference (https://
         
 Step 3: Calulating the total sum by adding the values for every customer. 
 
-Note: Shopify.js contains revenue calulated based on total_price and Shopify_USD.js contains revenue based on total_price_usd.       The result.pdf shows the output (revenue calculated) by running the application. 
+Note: Shopify.js contains revenue calulated based on total_price and Shopify_USD.js contains revenue based on total_price_usd.       The Result.pdf shows the output (revenue calculated) by running the application. 
